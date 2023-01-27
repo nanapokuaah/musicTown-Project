@@ -1,0 +1,110 @@
+{
+    "music": [
+      {
+        "id": 1,
+        "song": "Barefoot blue jean night",
+        "artist": "Jake Owen",
+        "album": "Barefoot blue jean night",
+        "year": 2011, 
+        "genre": "Country",
+        "audio": "audios/barefoot.mp3",
+        "link": "https://www.youtube.com/watch?v=aRh-vBOS-dU&ab_channel=jakeowenVEVO",
+        "image": "https://images.sk-static.com/images/media/img/col6/20220311-165949-555133.jpg"
+      },
+      {
+        "id": 2,
+        "song": "Right Here Waiting",
+        "artist": "Richard Marx",
+        "album": "Repeat Offender",
+        "year": 1989,
+        "genre": "Rock Classics",
+        "audio": "audios/righthere.mp3",
+        "link": "https://www.youtube.com/watch?v=S_E2EHVxNAE&ab_channel=RichardMarxVEVO",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1149929163.jpg?resize=980:*"
+      },
+      {
+        "id": 3,
+        "song": "Rock With You",
+        "artist": "Michael Jackson",
+        "album": "Off The Walls",
+        "year": 1979,
+        "genre": "Pop",
+        "audio": "audios/rockwith.mp3",
+        "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newyorker.com%2Fculture%2Fculture-desk%2Fthe-bizarre-dispute-over-whether-three-michael-jackson-songs-were-actually-sung-by-someone-else&psig=AOvVaw0za-5kHhzm5xuCA5bETD3r&ust=1671740672224000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDljrnFi_wCFQAAAAAdAAAAABAE",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/02/AP8802241920.jpg"
+      },
+      {
+        "id": 4,
+        "song": "Gods Plan",
+        "artist": "Drake",
+        "album": "What a time to be alive",
+        "year": 2015,
+        "genre": "Hip-Pop",
+        "audio": "audios/plan.mp3",
+        "link": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM&ab_channel=DrakeVEVO",
+        "image": "https://cdn.britannica.com/37/231937-050-9228ECA1/Drake-rapper-2019.jpg"
+      },
+      {
+        "id": 5,
+        "song": "I Drink Wine",
+        "artist": "Adele",
+        "album": "30",
+        "year": 2021,
+        "genre": "Classical",
+        "audio": "audios/wine.mp3",
+        "link": "https://www.youtube.com/watch?v=jDvYDzFOK9A&t=4s",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/ed35f56/2147483647/strip/true/crop/2100x3000+0+0/resize/1200x1714!/format/webp/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2Fec%2F9c6103094901b6351f07c96550c9%2Fla-ca-adele-one-night-only-196.JPG"
+      },
+  {
+      "id": 6,
+        "song": "Thriller",
+        "artist": "Michael Jackson",
+        "album": "Off the wall",
+        "year": 1979, 
+        "genre": "Pop",
+        "audio": "audios/barefoot.mp3",
+        "link": "https://www.youtube.com/watch?v=sOnqjkJTMaA",
+        "image": "https://www.indiewire.com/wp-content/uploads/2022/02/AP8802241920.jpg"
+  },
+  {
+    "id": 7,
+        "song": "Deserve My Love",
+        "artist": "Sarkodie",
+        "album": "No Pressure",
+        "year": 2021,
+        "genre": "Afro-beats",
+        "link": "https://www.youtube.com/watch?v=NxyzTOX_tDQ",
+        "image": "https://www.kemifilani.ng/wp-content/uploads/2020/03/Tiwa-Savage-1.jpg"
+  },
+      {
+      "id": 8,
+    "song":"Goodness of God",
+    "artist": "Cece Winans",
+    "album": "Believe For It",
+    "year": 2021,
+    "genre": "Gospel",
+    "link":"https://www.youtube.com/watch?v=n4ggKHAK_xk",
+    "image":"https://www.billboard.com/wp-content/uploads/media/CeCe-Winans-2018-cr-Cameron-Powell-billboard-1548.jpg?w=942&h=623&crop=1&resize=942%2C623"
+  },
+    {
+    "id": 9,
+    "song":"Over Me",
+    "artist": "Sarkodie",
+    "album": "Jamz",
+    "year": 2022,
+    "genre": "Afro-beats",
+    "link":"https://www.youtube.com/watch?v=sGI4BHApGRQ",
+    "image":"https://www.kemifilani.ng/wp-content/uploads/2020/03/Tiwa-Savage-1.jpg"
+    },
+  {
+    "id": 10,
+    "song":"Believe For It",
+    "artist": "Cece Winans",
+    "album": "Believe For It",
+    "year": 2021,
+    "genre": "Gospel",
+    "link":"https://www.youtube.com/watch?v=9sE5kEnitqE",
+    "image":"https://www.billboard.com/wp-content/uploads/media/CeCe-Winans-2018-cr-Cameron-Powell-billboard-1548.jpg?w=942&h=623&crop=1&resize=942%2C623"
+  }
+    ]
+  }
